@@ -14,7 +14,7 @@ relatedTemplates:
   - ab-testing-statsig
 ---
 
-# A/B Testing Simple
+# A/B Testing SimpleS
 
 By A/B testing at the edge, you'll reduce layout shift from client-loaded experiments and improve your site's performance with smaller JavaScript bundles.
 
